@@ -1,6 +1,8 @@
 # This file has been written to your home directory for convenience. It is
 # saved as "/home/pi/humidity-2021-04-16-09-32-11.py"
 
+#import the correct libraries
+
 from sense_emu import SenseHat
 
 sense = SenseHat()
